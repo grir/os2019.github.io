@@ -1,7 +1,7 @@
 ## Planas
 
 ### RM: realioji mašina
- * CPU – sisteminė dalis
+ * [sisteminė dalis]:  https://os2019.github.io/system-cpu.md
  * Sisteminiai kiti įrenginiai
  * Atmintis
  * Išorinė atmintis
