@@ -1,7 +1,7 @@
 ## Planas
 
 ### RM: realioji mašina
- * [sisteminė dalis]: (./system-cpu.md)
+ * [sisteminė dalis]: (./system-cpu.md) My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
  * Sisteminiai kiti įrenginiai
  * Atmintis
  * Išorinė atmintis
